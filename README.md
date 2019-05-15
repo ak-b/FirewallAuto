@@ -15,6 +15,7 @@ sudo /usr/local/bin/python3.6 push_config_asa.py hosts config
 <calling python> <script name> <host file name> <config file name>
 
 Wiki: https://wiki.cisco.com/display/AS13445/Python+Scripts+for+Global+Config+Push
+Powerpoint: https://cisco.box.com/s/68jfep7o7jvru1jvb8ka7tg2odu53dv3
 
 
 
