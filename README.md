@@ -14,7 +14,8 @@ sudo /usr/local/bin/python3.6 take_backup.py hosts
 sudo /usr/local/bin/python3.6 push_config_asa.py hosts config
 <calling python> <script name> <host file name> <config file name>
 
-Wiki: 
+Wiki: https://wiki.cisco.com/display/AS13445/Python+Scripts+for+Global+Config+Push
+
 
 
 
